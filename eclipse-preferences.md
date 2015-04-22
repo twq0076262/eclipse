@@ -6,12 +6,12 @@
 
 我们可以通过 Window 菜单选择 Preferences 菜单项来开启该对话框。
 
-![preferences_1][1]
+![](images/eclipse-preferences/preferences_1.jpg) 
 
 首选项页面有多个分类组成。你可以在左侧菜单中展开各个节点来查看首选项的配置。
 
 左上角的输入框可以快速查找首选项页面。 你只需在输入框中输入要查找的首选项页面的字母即可快速找到对应的首选项页面。 例如：输入 font 即可查找到 Font(字体) 首选项页面。
 
-![preferences_2][2]
+![](images/eclipse-preferences/preferences_2.jpg) 
 
 在你完成首选项页面的配置后点击 OK 按钮就可以保存配置，点击 Cancel 按钮用于放弃修改。

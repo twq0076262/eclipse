@@ -1,6 +1,5 @@
 # Eclipse Debug 调试
 
-* * *
 
 ## Debug 调试 Java 程序
 
@@ -11,15 +10,15 @@
 
 该操作也可以通过快捷键来完成，快捷键组合为 Alt + Shift + D, J。
 
-以上操作会创建一个新的 [Debug Configuration（调试配置）][1] ，并使用该配置来启动 Java 应用。
+以上操作会创建一个新的 [Debug Configuration（调试配置）](eclipse-debug-configuration.md) ，并使用该配置来启动 Java 应用。
 
 如果 Debug Configuration（调试配置）已经创建，你可以通过 Run 菜单选择 Debug Configurations 选取对应的类并点击 Debug 按钮来启动 Java 应用。
 
-![debug_program_1][2]
+![](images/eclipse-debugging-program/debug_program_1.jpg) 
 
 Run 菜单的 Debug 菜单项可以重新加载之前使用了调试模式的 java 应用。
 
-![debug_program_menu][3]
+![](images/eclipse-debugging-program/debug_program_menu.jpg) 
 
 重新加载之前使用了调试模式的 java 应用快捷键为 F11。
 
@@ -27,7 +26,7 @@ Run 菜单的 Debug 菜单项可以重新加载之前使用了调试模式的 ja
 
 java 编辑器可以设置断点调试。 在编辑器中右击标记栏并选择 Toggle Breakpoint 来设置断点调试。
 
-![debug_program_2][4]
+![](images/eclipse-debugging-program/debug_program_2.jpg) 
 
 断点可以在标记栏中看到。也可以在 Breakpoints View（断点视图）中看到。
 
@@ -35,14 +34,14 @@ java 编辑器可以设置断点调试。 在编辑器中右击标记栏并选�
 
 程序挂起时，Debug(调试)视图可以检查调用堆栈。
 
-![debug_program_3][5]
+![](images/eclipse-debugging-program/debug_program_3.jpg) 
 
 variables(变量)视图可以查看变量的值。
 
-![debug_program_4][6]
+![](images/eclipse-debugging-program/debug_program_4.jpg) 
 
 Run 菜单中有继续执行(Resume)菜单项，跳过(Step Over)一行代码，进入函数(Step Into)等。
 
-![debug_program_5][7]
+![](images/eclipse-debugging-program/debug_program_5.jpg) 
 
 以上图片中显示了 Resume, Step Into 和 Step Over 等关联的快捷键操作。
