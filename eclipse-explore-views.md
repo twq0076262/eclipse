@@ -14,23 +14,23 @@ Eclipse 透视图(perspective) 可以显示任何的视图和编辑窗口。
 
 下图显示了文件夹视图的四个视图。
 
-![explore_view_1][1]
+![setup1](images/eclipse-explore-views/explore_view_1.jpg)
 
 下图在两个文件夹视图中显示四个视图。
 
-![explore_view_2][2]
+![explore_view_2](images/eclipse-explore-views/explore_view_2.jpg)
 
 ## 移除视图 views
 
 视图从一个文件夹视图移动到另外一个文件夹视图只需要点击视图标题并推动视图工具区域到另外一个文件夹视图。
 
-![explore_views_moving][3]
+![explore_view_2](images/eclipse-explore-views/explore_views_moving.jpg)
 
 ## 创建文件夹视图
 
 文件夹视图可以通过移动视图标题栏到编辑去外或移动标题栏到另外一个文件夹视图来动态创建。 下图中如果你拖动了绿色线框内的标题栏意味着一个新的文件夹视图将被创建。
 
-![explore_views_creating_vf][4]
+![explore_view_2](images/eclipse-explore-views/explore_views_creating_vf.jpg)
 
 移动拖动图标到窗口的底部，您可以创建一个横跨窗口整个宽度的视图文件夹。移动拖动图标到窗口的左边或右边，您可以创建一个横跨窗口的整个高度视图文件夹。
 
@@ -38,10 +38,10 @@ Eclipse 透视图(perspective) 可以显示任何的视图和编辑窗口。
 
 你可以在 Window 菜单中点击 "Show View" 选项打开其他视图。
 
-![explore_views_new_view][5]
+![explore_view_2](images/eclipse-explore-views/explore_views_new_view.jpg)
 
 点击 "Other" 菜单选项会弹出一个 "Show View" 对话框，对话框中你可以查找和激活视图。
 
-![explore_views_show_view][6]
+![explore_view_2](images/eclipse-explore-views/explore_views_show_view.jpg)
 
 视图通过各个分类来组织。你可以通过搜索框快速查找视图。 然后打开视图并选择，点击 "OK" 按钮即可。

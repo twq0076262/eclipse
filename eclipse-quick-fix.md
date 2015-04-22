@@ -1,5 +1,5 @@
 # Eclipse 快速修复
-* * *
+
 
 ## 使用快速修复
 
@@ -17,10 +17,11 @@ Java 编辑器中使用 Java 语法来检测代码中的错误。当它发现错
 * 将鼠标指针放在波浪线上
 * 点击小灯泡
 * 将鼠标指针放在突出的文本上并选择 Edit 菜单上的 Quick fix 项或者按下快捷键 Ctrl + 1
-![quick_fix_1][1]
+
+![](images/eclipse-quick-fix/quick_fix_1.jpg)
 
 在上图中，getId 被高亮显示，因为 Person 类中没有一个名为的 getId() 方法。 在弹出的修复方案中选择 "Create method 'getId()' in type 'Person'" 这样就能在 Person 类中添加 getId() 方法。
 
 也可以通过右键点击 Problems 视图中的错误项，然后选择快速修复菜单项显示的快速修复对话框，如下图所示：
 
-![qf][2]
+![](images/eclipse-quick-fix/qf.jpg)

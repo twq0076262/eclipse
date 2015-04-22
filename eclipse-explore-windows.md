@@ -6,7 +6,7 @@
 
 工作台是多个窗口的集合。每个窗口包含菜单栏，工具栏，快捷方式栏，以及一个或者多个透视图。
 
-![Eclipse 窗口说明][1]
+![setup1](images/eclipse-explore-windows/workbench_decomposed.gif)
 
 透视图是一个包含一系列视图和内容编辑器的可视容器。
 
@@ -42,7 +42,6 @@ File 菜单也包含Import and Export菜单项，用来导入文件到Wrokbench�
 
 如果你是插件开发者，你可以为平台提供新的视图，编辑器，向导，菜单和工具项。 这些东西都是用XML来定义的，插件一旦注册后，就可以和平台中已经存在的组件无缝地集成在一起。
 
-* * *
 
 ## Eclipse 多窗口
 

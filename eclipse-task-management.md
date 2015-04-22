@@ -1,6 +1,5 @@
 # Eclipse 任务管理
 
-* * *
 
 ## 管理任务
 
@@ -8,17 +7,16 @@
 
 我们可以在 Java 代码中的注释添加 TODO 单词来标记一个任务，任务可以通过 Tasks(任务) 视图查看。
 
-![][1]
+![](images/eclipse-task-management/task-icon.jpg) 
 
 在Eclipse中我们可以通过鼠标右击垂直标尺并选择 Add Task 菜单来添加任务，在弹出的对话框中输入任务描述信息：
 
-![][2]![][3]
+![](images/eclipse-task-management/tack-add.jpg) 
 
 如果需要删除任务，只需右击任务图标选择 Remove Task 菜单项即可：
 
-![][4]
+![](images/eclipse-task-management/task-undo.jpg) 
 
-* * *
 
 ## 打开 Task(任务) 视图
 
@@ -27,15 +25,15 @@
 * 在 Window 菜单中选择 Show View > Other
 * 在搜索框中输入 Tasks
 * 在 General 下选择 Tasks
-![][5]
 
-* * *
+![](images/eclipse-task-management/task-remove.png) 
+
 
 ## 使用 Task(任务) 视图
 
 Task(任务) 视图中显示了项目中所有待完成的任务：
 
-![][6]
+![](images/eclipse-task-management/taskj-open.jpg) 
 
 Task(任务) 视图中还能进行以下操作：
 

@@ -12,23 +12,23 @@ Eclipse 窗口可以打开多个透视图，但在同一时间只能有一个透
 
 通过"Window"菜单并选择"Open Perspective > Other"来打开透视图对话框。
 
-![explore_perspective_open][1]
+![explore_view_2](images/eclipse-perspectives/explore_perspective_open.jpg)
 
 透视图对话框中显示了可用的透视图列表。
 
-该透视图列表也可以通过工具栏上的透视图按钮来打开 (![][2] ) 。
+该透视图列表也可以通过工具栏上的透视图按钮来打开 ![explore_view_2](images/explore_perspective_btn.jpg) 。
 
 ## 视图切换
 
 大都数情况下 java 开发者会使用 Java 透视图和 Debug 透视图。你可以通过工具条上的透视图名称来自由切换。
 
-![explore_perspective_toolbar][3]
+![explore_view_2](images/eclipse-perspectives/explore_perspective_toolbar.jpg)
 
 ## 关闭透视图
 
 工具条上右击透视图名及选择"Close"项即可关闭透视图。
 
-![explore_perspective_close][4]
+![explore_view_2](images/eclipse-perspectives/explore_perspective_close.jpg)
 
 ## 自定义透视图
 
@@ -39,4 +39,6 @@ Eclipse 窗口可以打开多个透视图，但在同一时间只能有一个透
 * "Show Views" 在你自定义的这个视图的布局，也就是切换到你自己的视图后，会出现哪些窗口。根据自己习惯进行设置。
 * Open Perspective" => 切换视图菜单中，出现哪些可以选择的视图。
 * 都设置好以后，保存你的自定义透视图。Windows => Save Perspective as，然后为你自定义的透视图取一个名字，保存。
-![explore_perspective_customize_1][5]![explore_perspective_customize_2][6]
+![explore_view_2](images/eclipse-perspectives/explore_perspective_customize_1.jpg)
+
+![explore_view_2](images/eclipse-perspectives/explore_perspective_customize_2.jpg)

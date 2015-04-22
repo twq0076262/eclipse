@@ -1,6 +1,6 @@
 # Eclipse 教程
 
-![Eclipse 教程][1]
+![Eclipse 教程](images/eclipse-tutorial/eclipse.jpg)
 
 Eclipse 是一个开放源代码的、基于 Java 的可扩展开发平台。
 
@@ -8,7 +8,6 @@ Eclipse 是 Java 的集成开发环境（IDE），当然 Eclipse 也可以作为
 
 Eclipse 附带了一个标准的插件集，包括Java开发工具（Java Development Kit，JDK）。
 
-* * *
 
 ## 许可证
 
@@ -16,7 +15,6 @@ Eclipse 平台及其插件基于Eclipse公共许可证（EPL：Eclipse Public Li
 
 Eclipse公共许可证（简称EPL）是一种开源软件发布许可证，由Eclipse基金会应用于名下的集成开发环境Eclipse上。
 
-* * *
 
 ## 发行版
 
