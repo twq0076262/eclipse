@@ -8,6 +8,6 @@ Eclipse 系统内部自带了浏览器，该浏览器可以通过点击 Window �
 
 在树形菜单中选择 "Internal Web Browser" 并点击 OK。
 
-在内置浏览器中我们在地址栏中输入网址，如：http://www.w3cschool.cc，即可打开网页。
+在内置浏览器中我们在地址栏中输入网址，如：http://www.jikexueyuan.com，即可打开网页。
 
 ![w3cschool.cc](images/eclipse-web-browsers/w3cschool.cc.jpg)
