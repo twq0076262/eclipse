@@ -21,6 +21,7 @@ Arguments(参数)项有：
 
 * Program arguments(程序参数) 可以 0 个或多个
 * VM arguments(Virtual Machine arguments:虚拟机参数) 可以 0 个或多个
+
 ![](images/eclipse-run-configuration/run_config_2.jpg) 
 
 Commons 选项卡中提供了通用配置，如标准输入输出的选项，可以到控制台或指定文件。
