@@ -9,10 +9,10 @@ Eclipse 的很多操作都提供了快捷键功能，我们可以通过键盘就
 *   使用快捷键关联工具条上的功能按钮
 
 ![shortcuts_menu](images/eclipse-shortcuts/shortcuts_menu.jpg)
+
 Eclipse 快捷键列表可通过快捷键 Ctrl + Shift + L 打开 。
 
 ![shortcuts_keys](images/eclipse-shortcuts/shortcuts_keys.jpg)
-* * *
 
 ## 设置快捷键
 
@@ -21,14 +21,15 @@ Eclipse 系统提供的快捷键有时比较难记住，甚至根本没有提供
 我们可以通过点击window->preferences->general->keys（或直接搜索keys），进入快捷键管理界面：
 
 ![shortcut1](images/eclipse-shortcuts/shortcut1.jpg)
+
 在这里可以查找所有功能的快捷键，需要修改或新增时，点击需要修改或新增的命令，在 binding 里设置快捷键:![shortcut2](images/eclipse-shortcuts/shortcut2.png)
 
 设置完快捷键后，还需要设置在什么时候可以使用该快捷键，eclipse提供各种场景供选择，一般选择In Windows(即在eclipse窗口激活状态)即可。
 
 ![shortcut3](images/eclipse-shortcuts/shortcut3.jpg)
+
 完成以上操作，点击 OK 按钮即完成设置。
 
-* * *
 
 ## Eclipse 常用快捷键
 
