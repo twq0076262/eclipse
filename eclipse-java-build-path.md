@@ -16,6 +16,7 @@ Java 项目属性对话框可以通过在 Package Explorer 视图中鼠标右击
 然后 在左边窗口选择 Java Build Path(Java 构建路径)。
 
 ![1](images/1.jpg) 
+
 在 Java 构建路径窗口中我们可以已经引用到的 jar 包。
 
 引用 jar 包可以在 Libraries 选项卡中完成，在 Libraries 选项卡中我们可以通过点击 Add JARs 来添加 Eclipse 工作空间中存在的jar包或 点击 External JARs 来引入其他文件中的 jar 包。
