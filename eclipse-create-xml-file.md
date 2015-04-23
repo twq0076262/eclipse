@@ -13,10 +13,9 @@
 
 * 在输入框中输入 XML，会显示关联 XML 的向导
 * 在展开的 XML 类别中选择 XML 文件
-![](images/eclipse-create-xml-file/new_xml_file_new_wiz.jpg)
-
 * 点击 Next 按钮进入新建 XML 文件向导
- 
+
+![](images/eclipse-create-xml-file/new_xml_file_new_wiz.jpg)
 
 ### 注意:
 
@@ -31,9 +30,9 @@
 
 * 输入或选择 XML 文件所属的文件夹
 * 输入 xml 文件名
-![](images/eclipse-create-xml-file/new_xml_file_new_wiz_2.jpg)
-
 * 点击 Next 按钮可以配置 DTD, XML Schema 的 XML 模式描述语言， 或者你可以直接点击 Finish 按钮完成 XML 文件的创建。
+
+![](images/eclipse-create-xml-file/new_xml_file_new_wiz_2.jpg)
 
 ## 查看新建的 XML 文件
 
