@@ -9,6 +9,7 @@ Eclipse 工作空间包含了多个项目。一个项目可以是关闭或开启
 
 * 消耗内存
 * 占用编译时间：在删除项目.class 文件（Clean All Projects）时并重新编译（在菜单上选择 Project > Clean > Clean all projects ）。
+
 ![](images/eclipse-close-project/clean_project.jpg)
 
 
