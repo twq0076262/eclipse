@@ -4,7 +4,7 @@
 
 Eclipse作为一个集成的IDE开发工具，为我们的软件开发提供了便利，eclipse除了自带的强大功能外，还支持功能丰富的插件。
 
-我们可以通过Eclipse官方市场 http://marketplace.eclipse.org/找到并下载我们需要的插件。
+我们可以通过Eclipse官方市场 http://marketplace.eclipse.org/ 找到并下载我们需要的插件。
 
 例如我们可以查找支持 Python IDE 的插件，如下图所示：
 
