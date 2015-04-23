@@ -8,6 +8,7 @@ Eclipse 查找对话框中可以允许用户在指定工作空间上使用单词
 
 * 在 Search 菜单上选择 Search 或 File 或 Java
 * 按下快捷键： Ctrl + H
+
 ![](images/eclipse-search-menu/search_1.jpg)
 
 文件(File)查找允许用户查找所有文件类型，而 Java 查找只针对 Java 文件进行查找。
