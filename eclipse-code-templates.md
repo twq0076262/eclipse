@@ -53,4 +53,4 @@ Eclipse 还提供了非常多的代码模板，我们可以通过 Windows->Prefe
 
 更多自定义代码模板的内容你可以通过点击 Help 菜单中的 Help Contents 选项，在弹出的对话框的搜索栏上输入 "Java Editor Template Variables" 选择 Java Editor Template Variables 查看具体的文档描述：
 
-![](images/eclipse-code-templates/) 
+![](images/eclipse-code-templates.jpg) 
