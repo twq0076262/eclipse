@@ -1,5 +1,6 @@
 # Eclipse 安装
-下载 Eclipse，下载地址为：[http://www.eclipse.org/downloads/][1]。 下载页面列出了不同语言的Eclipse IDE，你可以根据自己需要下载。
+
+下载 Eclipse，下载地址为：<http://www.eclipse.org/downloads/>。 下载页面列出了不同语言的Eclipse IDE，你可以根据自己需要下载。
 
 Eclipse 的每个安装包都不同， Java 开发人员通常使用 Eclipse IDE for Java Developers 来开发 Java 应用。
 

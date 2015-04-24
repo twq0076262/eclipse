@@ -11,7 +11,7 @@ Eclipse 查看的菜单栏通常包含以下几个菜单：
 * Window 菜单
 * Help 菜单
 
-![setup1](images/eclipse-explore-menus/explore_menu.jpg)
+![setup1](images/eclipse-explore-menus/explore_menu.jpg)    
 通过 Eclipse 插件你可以添加新的菜单和菜单项。
 
 

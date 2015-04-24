@@ -39,6 +39,8 @@ Eclipse 窗口可以打开多个透视图，但在同一时间只能有一个透
 * "Show Views" 在你自定义的这个视图的布局，也就是切换到你自己的视图后，会出现哪些窗口。根据自己习惯进行设置。
 * Open Perspective" => 切换视图菜单中，出现哪些可以选择的视图。
 * 都设置好以后，保存你的自定义透视图。Windows => Save Perspective as，然后为你自定义的透视图取一个名字，保存。
+
+
 ![explore_view_2](images/eclipse-perspectives/explore_perspective_customize_1.jpg)
 
 ![explore_view_2](images/eclipse-perspectives/explore_perspective_customize_2.jpg)

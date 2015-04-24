@@ -1,4 +1,4 @@
-# Eclipse 生成jar包 
+# Eclipse 生成 jar 包 
 
 ## 打开 Jar 文件向导
 

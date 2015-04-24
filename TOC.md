@@ -1,4 +1,3 @@
-- [Eclipse 教程](eclipse-tutorial.md)
 - [Eclipse 安装](eclipse-install.md)
 - [Eclipse 窗口说明](eclipse-explore-windows.md)
 - [Eclipse 菜单](eclipse-explore-menus.md)
@@ -13,7 +12,7 @@
 - [Eclipse Java 构建路径](eclipse-java-build-path.md)
 - [Eclipse 运行配置](eclipse-run-configuration.md)
 - [Eclipse 运行程序](eclipse-running-program.md)
-- [Eclipse 生成jar包](eclipse-create-jar-files.md)
+- [Eclipse 生成 jar 包](eclipse-create-jar-files.md)
 - [Eclipse 关闭项目](eclipse-close-project.md)
 - [Eclipse 编译项目](eclipse-build-project.md)
 - [Eclipse Debug 配置](eclipse-debug-configuration.md)

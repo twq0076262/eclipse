@@ -7,9 +7,7 @@
 
 * 点击 File 菜单并选择 New > Interface
 * 在 Package Explorer 窗口中右击鼠标并选择 New > Interface
-* 在工具条上的下拉框按钮中 ![](images/eclipse-create-java-class/class_dd_button.jpg)  选择 
-
-![](images/eclipse-create-java-class/class_button.jpg) 
+* 在工具条上的下拉框按钮中 ![](images/eclipse-create-java-class/class_dd_button.jpg)  选择 ![](images/eclipse-create-java-class/class_button.jpg)    
 
 在打开创建 Java 接口向导前，最好选择好Java接口所属的包名，这样在创建 Java 接口时包名字段就会自动填充。
 
