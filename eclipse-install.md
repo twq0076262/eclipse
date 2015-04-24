@@ -11,7 +11,7 @@ Eclipse 的每个安装包都不同， Java 开发人员通常使用 Eclipse IDE
 
 ## 安装 Eclipse
 
-Eclipse 是基于 Java 的可扩展开发平台，所以安装 Eclipse 前你需要确保你的电脑已安装 JDK，JDK 安装可以查看我们的[Java开发环境配置][3]。
+Eclipse 是基于 Java 的可扩展开发平台，所以安装 Eclipse 前你需要确保你的电脑已安装 JDK，JDK
 
 Eclipse 的安装非常简单，你只需要下载压缩包，解压完毕后即可使用，进入文件夹，红框如图所示就是eclipse的启动程序
 
